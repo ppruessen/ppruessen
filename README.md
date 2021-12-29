@@ -10,7 +10,7 @@ If you wish to connect, you can mail me (please see below) or hit me up on Linke
 | 3   | ft_printf                                  | ✅     |   | 13  | CPP Module 00 | 🔒     |   | 24  | ft_irc                         | 🔒      |
 | 4   | get_next_line                              | ✅     |   | 14  | CPP Module 01 | 🔒     |   | 25  | webserv                        | 🔒      |
 | 5   | FdF                                        | 🔒     |   | 15  | CPP Module 02 | 🔒     |   | 26  | Inception                      | 🔒      |
-| 5   | so_long                                    | ✅     |   | 16  | CPP Module 03 | 🔒     |   | 27  | ft_transcendence               | 🔒      |
+| 5   | so_long                                    | 🔒     |   | 16  | CPP Module 03 | 🔒     |   | 27  | ft_transcendence               | 🔒      |
 | 6   | minitalk                                   | 📝     |   | 17  | CPP Module 04 | 🔒     |   |     |                                |         |
 | 7   | pipex                                      | 🔒     |   | 18  | CPP Module 05 | 🔒     |   |     |                                |         |
 | 8   | push_swap                                  | 🔒     |   | 19  | CPP Module 06 | 🔒     |   |     |                                |         |
