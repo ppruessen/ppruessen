@@ -18,9 +18,10 @@ If you wish to connect, you can mail me (please see below) or hit me up on Linke
 | 10  | Philosphers                                | 🔒     |   | 21  | CPP Module 08 | 🔒     |   |     |                                |         | |
 
 ## Personal Projects 💪🏻
-| No  | Project                                    | Status |     Language    |
+| No  | Project                                    | Status |     Language(s)    |
 | :-: | :----------------------------------------- | :----: | :-------------: |
-| 1   |                |      |       |
+| 1   |        flying_helicopter        |   finished   |   HTML, CSS    |
+| 2   |        smoking_house            |   finished   |   HTML, CSS    |
 
 ## 📱 Connect With Me!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-pruessen/)
