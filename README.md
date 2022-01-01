@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Patrick Prüßen, and at the moment I am studying Software Engineering at 👨🏻‍💻 [42 Wolfsburg](https://42wolfsburg.de/).
+My name is Patrick, and at the moment I am studying Software Engineering at 👨🏻‍💻 [42 Wolfsburg](https://42wolfsburg.de/).
 <br>
 If you wish to connect, you can mail me (please see below) or hit me up on Linkedin. Cheers!
 ## 42cursus Progress 💪🏻
