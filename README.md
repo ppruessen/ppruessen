@@ -3,7 +3,7 @@
 My name is Patrick, and at the moment I am studying Software Engineering at [42 Wolfsburg](https://42wolfsburg.de/).
 <br>
 If you wish to connect, you can [mail](mailto:pruessen@gmx.de) me or hit me up on [Linkedin](https://www.linkedin.com/in/patrick-pruessen/). 
-<br>You find more of my social media accounts on the bottom of this side.
+<br>You find more of my social media accounts on the bottom of this site.
 Cheers!
 <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppruessen&show_icons=true&theme=blue-green)
