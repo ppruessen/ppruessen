@@ -1,6 +1,9 @@
 ### Hi there 👋
 My name is Patrick, and at the moment I am studying Software Engineering at 👨🏻‍💻 [42 Wolfsburg](https://42wolfsburg.de/).
 <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppruessen&show_icons=true&theme=blue-green)
+<br>[Codewars](https://www.codewars.com/users/ppruessen/badges/small)
+<br>
 If you wish to connect, you can mail me (please see below) or hit me up on Linkedin. Cheers!
 ## 42cursus Progress 💪🏻
 | No  | Project                                    | Status | Grade | No  | Project       | Status | Grade | No  | Project                        | Status | Grade |
