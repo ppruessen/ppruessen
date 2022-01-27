@@ -11,16 +11,16 @@ Cheers!
 ## 42cursus Progress 💪🏻
 | No  | Project                                    | Status | Grade | No  | Project       | Status | Grade | No  | Project                        | Status | Grade |
 | :-: | :----------------------------------------- | :----: | :----: | :-: | :------------ | :----: | :----: | :-: | :----------------------------- | :----: | :----: |
-| 1   | [Libft](https://github.com/ppruessen/libft)                                      | ✅     | 115 | 11  |    minishell     | 🔒     |   | 21  |         CPP Module 06              | 🔒      |  |
-| 2   | Born2beroot                               | ✅     | 125 | 12  |    Philosphers   | 🔒     |   | 22  |          CPP Module 07             | 🔒      |  |
-| 3   | [ft_printf](https://github.com/ppruessen/ft_printf)                                  | ✅     | 125 | 13  | cub3d            | 🔒     |   | 23  |              CPP Module 08         | 🔒      |  |
-| 4   | [get_next_line](https://github.com/ppruessen/get_next_line)                              | ✅     | 125 | 14  | miniRT           | 🔒     |   | 24  |               NetPractice          | 🔒      |  |
-| 5   | FdF                                        | 📝     |     | 15  | CPP Module 00     | 🔒     |   | 25  |            ft_containers           | 🔒      | |
-| 6   | so_long                                    | 🔒     |     | 16  | CPP Module 01     | 🔒     |   | 26  |         ft_irc                     | 🔒      | |
-| 7   | fract-ol                                   | 🔒     |     | 17  |  CPP Module 02    | 🔒     |   | 27  |             webserv                | 🔒      | |
-| 8   | minitalk                                   | 📝     |     | 18  | CPP Module 03     | 🔒     |   | 28  |           Inception                | 🔒      | |
-| 9   | pipex                                      | 📝     |     | 19  |  CPP Module 04    | 🔒     |   | 29  |           ft_transcendence         | 🔒      | |
-| 10   | push_swap                                 | 📝     |     | 20  | CPP Module 05     | 🔒     |   |     |                                     |      | |
+| 1  | [Libft](https://github.com/ppruessen/libft)                                      | ✅     | 115 | 11  |    minishell     | 🔒     |   | 21  |         CPP Module 06              | 🔒      |  |
+| 2  | Born2beroot                               | ✅     | 125 | 12  |    Philosphers   | 🔒     |   | 22  |          CPP Module 07             | 🔒      |  |
+| 3  | [ft_printf](https://github.com/ppruessen/ft_printf)                                  | ✅     | 125 | 13  | cub3d            | 🔒     |   | 23  |              CPP Module 08         | 🔒      |  |
+| 4  | [get_next_line](https://github.com/ppruessen/get_next_line)                              | ✅     | 125 | 14  | miniRT           | 🔒     |   | 24  |               NetPractice          | 🔒      |  |
+| 5  | FdF                                        | 📝     |     | 15  | CPP Module 00     | 🔒     |   | 25  |            ft_containers           | 🔒      | |
+| 6  | so_long                                    | 🔒     |     | 16  | CPP Module 01     | 🔒     |   | 26  |         ft_irc                     | 🔒      | |
+| 7  | fract-ol                                   | 🔒     |     | 17  |  CPP Module 02    | 🔒     |   | 27  |             webserv                | 🔒      | |
+| 8  | minitalk                                   | 📝     |     | 18  | CPP Module 03     | 🔒     |   | 28  |           Inception                | 🔒      | |
+| 9  | pipex                                      | 📝     |     | 19  |  CPP Module 04    | 🔒     |   | 29  |           ft_transcendence         | 🔒      | |
+| 10  | push_swap                                 | 📝     |     | 20  | CPP Module 05     | 🔒     |   |     |                                     |      | |
 
 
 ## Personal Projects 💪🏻
