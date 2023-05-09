@@ -7,6 +7,7 @@ If you wish to connect, you can [mail](mailto:pruessen@gmx.de) me or hit me up o
 Cheers!
 <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppruessen&show_icons=true&theme=blue-green)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppruessen)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 ## 42cursus Progress 💪🏻
 | No  | Project                                    | Status | Grade | No  | Project       | Status | Grade | No  | Project                        | Status | Grade |
