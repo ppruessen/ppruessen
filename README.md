@@ -6,7 +6,6 @@ If you wish to connect, you can [mail](mailto:pruessen@gmx.de) me or hit me up o
 <br>You find more of my social media accounts on the bottom of this site.
 Cheers!
 <br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppruessen&show_icons=true&theme=blue-green)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppruessen)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 ## 42cursus Progress 💪🏻
