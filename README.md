@@ -6,9 +6,6 @@ If you wish to connect, you can [mail](mailto:pruessen@gmx.de) me or hit me up o
 <br>You find more of my social media accounts on the bottom of this readme.
 Cheers!
 <br><br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppruessen)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-
 
 ## 📱 Connect With Me!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-pruessen/)
